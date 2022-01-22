@@ -1,0 +1,209 @@
+\begin{thebibliography}{10}
+
+\bibitem{abbasi2015local}
+Maryam Abbasi, Lu{\'\i}s Paquete, and Francisco~B Pereira.
+\newblock Local search for multiobjective multiple sequence alignment.
+\newblock In {\em International Conference on Bioinformatics and Biomedical
+  Engineering}, pages 175--182. Springer, 2015.
+
+\bibitem{balaban2019treecluster}
+Metin Balaban, Niema Moshiri, Uyen Mai, Xingfan Jia, and Siavash Mirarab.
+\newblock Treecluster: Clustering biological sequences using phylogenetic
+  trees.
+\newblock {\em PloS one}, 14(8):e0221068, 2019.
+
+\bibitem{benitez2020sequoya}
+Antonio Ben{\'\i}tez-Hidalgo, Antonio~J Nebro, and Jos{\'e}~F Aldana-Montes.
+\newblock Sequoya: multiobjective multiple sequence alignment in python.
+\newblock {\em Bioinformatics}, 36(12):3892--3893, 2020.
+
+\bibitem{ref_dirs_energy}
+J.~{Blank}, K.~{Deb}, Y.~{Dhebar}, S.~{Bandaru}, and H.~{Seada}.
+\newblock Generating well-spaced points on a unit simplex for evolutionary
+  many-objective optimization.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, In press.
+
+\bibitem{chen2016xgboost}
+Tianqi Chen and Carlos Guestrin.
+\newblock Xgboost: A scalable tree boosting system.
+\newblock In {\em Proceedings of the 22nd acm sigkdd international conference
+  on knowledge discovery and data mining}, pages 785--794, 2016.
+
+\bibitem{da2010alineaga}
+Fernando Jos{\'e}~Mateus da~Silva, Juan Manuel~S{\'a}nchez P{\'e}rez, Juan
+  Antonio~G{\'o}mez Pulido, and Miguel A~Vega Rodr{\'\i}guez.
+\newblock Alineaga—a genetic algorithm with local search optimization for
+  multiple sequence alignment.
+\newblock {\em Applied Intelligence}, 32(2):164--172, 2010.
+
+\bibitem{deb2014evolutionary}
+Kalyanmoy Deb and Himanshu Jain.
+\newblock An evolutionary many-objective optimization algorithm using
+  reference-point-based nondominated sorting approach, part i: Solving problems
+  with box constraints.
+\newblock {\em IEEE Trans. Evolutionary Computation}, 18(4):577--601, 2014.
+
+\bibitem{deb2002fast}
+Kalyanmoy Deb, Amrit Pratap, Sameer Agarwal, and TAMT Meyarivan.
+\newblock A fast and elitist multiobjective genetic algorithm: Nsga-ii.
+\newblock {\em IEEE transactions on evolutionary computation}, 6(2):182--197,
+  2002.
+
+\bibitem{derrac2011practical}
+Joaqu{\'\i}n Derrac, Salvador Garc{\'\i}a, Daniel Molina, and Francisco
+  Herrera.
+\newblock A practical tutorial on the use of nonparametric statistical tests as
+  a methodology for comparing evolutionary and swarm intelligence algorithms.
+\newblock {\em Swarm and Evolutionary Computation}, 1(1):3--18, 2011.
+
+\bibitem{do2005probcons}
+Chuong~B Do, Mahathi~SP Mahabhashyam, Michael Brudno, and Serafim Batzoglou.
+\newblock Probcons: Probabilistic consistency-based multiple sequence
+  alignment.
+\newblock {\em Genome research}, 15(2):330--340, 2005.
+
+\bibitem{edgar2004muscle}
+Robert~C Edgar.
+\newblock Muscle: multiple sequence alignment with high accuracy and high
+  throughput.
+\newblock {\em Nucleic acids research}, 32(5):1792--1797, 2004.
+
+\bibitem{hodges2012rank}
+JL~Hodges and Erich~L Lehmann.
+\newblock Rank methods for combination of independent experiments in analysis
+  of variance.
+\newblock In {\em Selected Works of EL Lehmann}, pages 403--418. Springer,
+  2012.
+
+\bibitem{holm1979simple}
+Sture Holm.
+\newblock A simple sequentially rejective multiple test procedure.
+\newblock {\em Scandinavian journal of statistics}, pages 65--70, 1979.
+
+\bibitem{katoh2002mafft}
+Kazutaka Katoh, Kazuharu Misawa, Kei-ichi Kuma, and Takashi Miyata.
+\newblock Mafft: a novel method for rapid multiple sequence alignment based on
+  fast fourier transform.
+\newblock {\em Nucleic acids research}, 30(14):3059--3066, 2002.
+
+\bibitem{li2015many}
+Bingdong Li, Jinlong Li, Ke~Tang, and Xin Yao.
+\newblock Many-objective evolutionary algorithms: A survey.
+\newblock {\em ACM Computing Surveys (CSUR)}, 48(1):1--35, 2015.
+
+\bibitem{liu2009rapid}
+Kevin Liu, Sindhu Raghavan, Serita Nelesen, C~Randal Linder, and Tandy Warnow.
+\newblock Rapid and accurate large-scale coestimation of sequence alignments
+  and phylogenetic trees.
+\newblock {\em Science}, 324(5934):1561--1564, 2009.
+
+\bibitem{liu2012sate}
+Kevin Liu, Tandy~J Warnow, Mark~T Holder, Serita~M Nelesen, Jiaye Yu,
+  Alexandros~P Stamatakis, and C~Randal Linder.
+\newblock Sate-ii: very fast and accurate simultaneous estimation of multiple
+  sequence alignments and phylogenetic trees.
+\newblock {\em Systematic biology}, 61(1):90, 2012.
+
+\bibitem{mirarab2015pasta}
+Siavash Mirarab, Nam Nguyen, Sheng Guo, Li-San Wang, Junhyong Kim, and Tandy
+  Warnow.
+\newblock Pasta: ultra-large multiple sequence alignment for nucleotide and
+  amino-acid sequences.
+\newblock {\em Journal of Computational Biology}, 22(5):377--386, 2015.
+
+\bibitem{nayeem2019phylogeny}
+Muhammad~Ali Nayeem, Md~Shamsuzzoha Bayzid, Atif~Hasan Rahman, Rifat Shahriyar,
+  and M~Sohel Rahman.
+\newblock A 'phylogeny-aware' multi-objective optimization approach for
+  computing msa.
+\newblock In {\em Proceedings of the Genetic and Evolutionary Computation
+  Conference}, pages 577--585. ACM, 2019.
+
+\bibitem{nayeem2020multiobjective}
+Muhammad~Ali Nayeem, Md~Shamsuzzoha Bayzid, Atif~Hasan Rahman, Rifat Shahriyar,
+  and M~Sohel Rahman.
+\newblock Multiobjective formulation of multiple sequence alignment for
+  phylogeny inference.
+\newblock {\em IEEE Transactions on Cybernetics}, 2020.
+
+\bibitem{notredame2000t}
+C{\'e}dric Notredame, Desmond~G Higgins, and Jaap Heringa.
+\newblock T-coffee: a novel method for fast and accurate multiple sequence
+  alignment1.
+\newblock {\em Journal of molecular biology}, 302(1):205--217, 2000.
+
+\bibitem{ortuno2013optimizing}
+Francisco~M Ortu{\~n}o, Olga Valenzuela, Fernando Rojas, Hector Pomares,
+  Javier~P Florido, Jose~M Urquiza, and Ignacio Rojas.
+\newblock Optimizing multiple sequence alignments using a genetic algorithm
+  based on three objectives: structural information, non-gaps percentage and
+  totally conserved columns.
+\newblock {\em Bioinformatics}, 29(17):2112--2121, 2013.
+
+\bibitem{rodriguez-fdez2015stac}
+Ismael Rodr\'{i}guez-Fdez, Adri\'{a}n Canosa, Manuel Mucientes, and Alberto
+  Bugar\'{i}n.
+\newblock {STAC}: a web platform for the comparison of algorithms using
+  statistical tests.
+\newblock In {\em Proceedings of the 2015 IEEE International Conference on
+  Fuzzy Systems (FUZZ-IEEE)}, 2015.
+
+\bibitem{rubio2018characteristic}
+{\'A}lvaro Rubio-Largo, Leonardo Vanneschi, Mauro Castelli, and Miguel~A
+  Vega-Rodr{\'\i}guez.
+\newblock A characteristic-based framework for multiple sequence aligners.
+\newblock {\em IEEE transactions on cybernetics}, 48(1):41--51, 2018.
+
+\bibitem{rubio2016hybrid}
+{\'A}lvaro Rubio-Largo, Miguel~A Vega-Rodr{\'\i}guez, and David~L
+  Gonz{\'a}lez-{\'A}lvarez.
+\newblock A hybrid multiobjective memetic metaheuristic for multiple sequence
+  alignment.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 20(4):499--514,
+  2016.
+
+\bibitem{soto2014multi}
+Wilson Soto and David Becerra.
+\newblock A multi-objective evolutionary algorithm for improving multiple
+  sequence alignments.
+\newblock In {\em Brazilian Symposium on Bioinformatics}, pages 73--82.
+  Springer, 2014.
+
+\bibitem{stamatakis2014raxml}
+Alexandros Stamatakis.
+\newblock Raxml version 8: a tool for phylogenetic analysis and post-analysis
+  of large phylogenies.
+\newblock {\em Bioinformatics}, 30(9):1312--1313, 2014.
+
+\bibitem{thompson2005balibase}
+Julie~D Thompson, Patrice Koehl, Raymond Ripp, and Olivier Poch.
+\newblock Balibase 3.0: latest developments of the multiple sequence alignment
+  benchmark.
+\newblock {\em Proteins: Structure, Function, and Bioinformatics},
+  61(1):127--136, 2005.
+
+\bibitem{warnow2017computational}
+Tandy Warnow.
+\newblock {\em Computational phylogenetics: an introduction to designing
+  methods for phylogeny estimation}.
+\newblock Cambridge University Press, 2017.
+
+\bibitem{wheeler2007multiple}
+Travis~J Wheeler and John~D Kececioglu.
+\newblock Multiple alignment by aligning alignments.
+\newblock {\em Bioinformatics}, 23(13):i559--i568, 2007.
+
+\bibitem{zambrano2017comparing}
+Cristian Zambrano-Vega, Antonio~J Nebro, Jos{\'e} Garc{\'\i}a-Nieto, and
+  Jos{\'e}~F Aldana-Montes.
+\newblock Comparing multi-objective metaheuristics for solving a
+  three-objective formulation of multiple sequence alignment.
+\newblock {\em Progress in Artificial Intelligence}, pages 1--16, 2017.
+
+\bibitem{zhang2018astral}
+Chao Zhang, Maryam Rabiee, Erfan Sayyari, and Siavash Mirarab.
+\newblock Astral-iii: polynomial time species tree reconstruction from
+  partially resolved gene trees.
+\newblock {\em BMC bioinformatics}, 19(6):15--30, 2018.
+
+\end{thebibliography}
